@@ -29,7 +29,7 @@ const Pokemon1 ={
     pokeNames : ['Rattata','Caterpie','Pidgey','Mankey','Weedle','Butterfree','Pikachu'],
   };    
   
-  pickedMove = (playerPoke) =>{
+  const pickedMove = (playerPoke) =>{
     let hasPicked = false
     let attackChoice
     while(!hasPicked){
