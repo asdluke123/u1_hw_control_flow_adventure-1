@@ -10,10 +10,10 @@ Using what you know about data types, variables, operators, conditional blocks, 
 
 - Any path the user goes down must ask them at least **three** questions.
 - There must be a minimum of **seven** total destinations the user could arrive at based on their responses.
-- For **at least one** of the questions asked, there must be **more than two** possible user responses.
+- For **at least one** of the questions asked, there must be **more than two** possible user responses. DONE
 - Your adventure must offer the user an option to **replay** at the end.
-- Your code must contain **at least one switch statement**.
-- Your code must make use of **both string and number user inputs**.
+- Your code must contain **at least one switch statement**. DONE
+- Your code must make use of **both string and number user inputs**. DONE
 
   **Hint:** You may need :
 
