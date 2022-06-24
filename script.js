@@ -207,9 +207,9 @@ const pewterGym = (playerPoke) =>{
     }
     if(Player.hasDied != 1)
         viridianForest(Pokemon3)
-    if(Player.hasDied != 3)
+    if(Player.hasDied != 1)
         rivalBattle(Pokemon3)
-    if(Player.hasDied != 3)
+    if(Player.hasDied != 1)
         pewterGym(Pokemon3)
 
   }
